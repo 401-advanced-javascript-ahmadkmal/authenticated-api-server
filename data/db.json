@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "name": "hover",
+      "display_name": "hakona",
+      "description": "temon and pomba",
+      "id": 1
+    },
+    {
+      "name": "matata",
+      "display_name": "hakona",
+      "description": "for test only",
+      "id": 2
+    },
+    {
+      "name": "Leomon batata",
+      "id": 3
+    },
+    {
+      "name": "yes",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "no",
+      "category": "yes",
+      "description": "maybe",
+      "price": 1.99,
+      "id": 1
+    },
+    {
+      "name": "no",
+      "category": "yes",
+      "description": "maybe",
+      "price": 1.99,
+      "id": 2
+    }
+  ]
+}
