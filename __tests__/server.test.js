@@ -2,7 +2,7 @@
 'use strict';
 const { server } = require('../lib/server.js');
 const supergoose = require('@code-fellows/supergoose');
-const { token } = require('morgan');
+const { token1 } = require('morgan');
 const mockRequest = supergoose(server);
 let token ;
 describe('categories API', () => {
