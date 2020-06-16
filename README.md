@@ -1,6 +1,4 @@
-# LAB - 15
-
-## authenticated-api-server
+# authenticated-api-server
 
 this api used to add category and product for your supermarket
 
@@ -14,7 +12,7 @@ this api used to add category and product for your supermarket
 - [swageer link](https://app.swaggerhub.com/apis/ahmadkmal/class-6/0.1#/default/post_categories)
 - [submission PR](https://github.com/401-advanced-javascript-ahmadkmal/api-server/tree/class-09)
 - [tests report](https://github.com/401-advanced-javascript-ahmadkmal/api-server/pull/5/checks?check_run_id=745226031)
-- [front-end](https://api-401.herokuapp.com/api/v1/)
+<!-- - [front-end](https://api-401.herokuapp.com/api/v1/) -->
 
 ### Setup
 
